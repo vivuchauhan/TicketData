@@ -1,5 +1,6 @@
 
-const productsData = [
+{
+    [
     {
       id: 1,
       name: "Ticket 1",
@@ -29,7 +30,7 @@ const productsData = [
         imageUrl: "https://shipsmonthly.com/wp-content/uploads/2020/10/Galicia_201013_093_Maritime-Photographic-web.jpg",
       },
     
-  ];
+  ]
   
-  export default productsData;
+}
   
